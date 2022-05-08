@@ -3,7 +3,7 @@ body{
 }
 /* used to set a different logo */
 .nav-bar__logo img {
-    content: url(https://raw.githubusercontent.com/janholtzhausen/public/main/logo.png);
+    content: url(https://janholtzhausen.github.io/logo.png);
 }
 .top-bar{
     background: #232222;
@@ -29,5 +29,5 @@ body{
 }
 
 .nav-bar__logo img {
-    content: url(https://raw.githubusercontent.com/janholtzhausen/public/main/logo.png);
+    content: url(https://janholtzhausen.github.io/logo.png);
 }
